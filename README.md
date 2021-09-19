@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 * [my_rails_template](https://github.com/madogiwa0124/my_rails_template) : My application template for Ruby on Rails.
 * [CameRuby](https://github.com/madogiwa0124/CameRuby) : camelCase🐫 + Ruby💎 = 🐫CameRuby💎.
 * [webpack_study](https://github.com/madogiwa0124/webpack_study) : repository for webpack study.
+* [JavaScriptGameExam](https://github.com/madogiwa0124/JavaScriptGameExam) : games made using JavaScript/TypeScript.
 
 # Stats📊
 
