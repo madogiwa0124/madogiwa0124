@@ -19,24 +19,22 @@ Here are some ideas to get you started:
 
 * My blog : https://madogiwa0124.hatenablog.com/
 
-## I used at work.
+## I used at work 👩‍💻
 
 ### Backend
-* Ruby
-* Ruby on Rails
-* MySQL
+* Ruby / Ruby on Rails / Sidekiq
+* MySQL / Redis
 
 ### Frontend
-* JavaScript
-* TypeScript
-* Vue.js
+* JavaScript / Vue.js / TypeScript
 * webpack
 
 ### Others
 * GitHub
 * CircleCI
+* Docker
 
-# My apps
+# My apps 🗂
 
 ## Ruby gems💎
 
