@@ -1,4 +1,4 @@
-# Hi 🙂
+# madogiwa0124 🙂
 
 <!--
 **Madogiwa0124/Madogiwa0124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 
 * My blog : https://madogiwa0124.hatenablog.com/
 
-# I used at work.
+## I used at work.
 
-## Backend
+### Backend
 * Ruby
 * Ruby on Rails
 * MySQL
 
-## Frontend
+### Frontend
 * JavaScript
 * TypeScript
 * Vue.js
