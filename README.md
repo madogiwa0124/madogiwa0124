@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 * GitHub
 * CircleCI
 
-# my Apps
+# My apps
 
 ## Ruby gems💎
 
