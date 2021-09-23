@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on Ruby, Ruby on Rails, JavaScript, TypeScript, Vue.js and more.
 
-* My blog : https://madogiwa0124.hatenablog.com/
+My blog: https://madogiwa0124.hatenablog.com/
 
 ## I used at work 👩‍💻
 
@@ -30,9 +30,7 @@ Here are some ideas to get you started:
 * webpack
 
 ### Others
-* GitHub
-* CircleCI
-* Docker
+GitHub / CircleCI / Docker
 
 # My apps 🗂
 
@@ -59,6 +57,7 @@ Here are some ideas to get you started:
 * [CameRuby](https://github.com/madogiwa0124/CameRuby) : camelCase🐫 + Ruby💎 = 🐫CameRuby💎.
 * [webpack_study](https://github.com/madogiwa0124/webpack_study) : repository for webpack study.
 * [JavaScriptGameExam](https://github.com/madogiwa0124/JavaScriptGameExam) : games made using JavaScript/TypeScript.
+* [rails-heroku-terraform](https://github.com/madogiwa0124/rails-heroku-terraform) : terraform template for running Rails on Heroku.
 
 # Stats📊
 
