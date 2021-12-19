@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on Ruby, Ruby on Rails, JavaScript, TypeScript, Vue.js and more.
 
-My blog: https://madogiwa0124.hatenablog.com/
+My blog :jp: : https://madogiwa0124.hatenablog.com/
 
 ## I used at work 👩‍💻
 
@@ -26,7 +26,7 @@ My blog: https://madogiwa0124.hatenablog.com/
 * MySQL / Redis
 
 ### Frontend
-* JavaScript / Vue.js / TypeScript
+* JavaScript / Vue.js / TypeScript / HTML / CSS / Sass(Scss)
 * webpack
 
 ### Others
@@ -61,10 +61,7 @@ GitHub / CircleCI / Docker
 
 # Stats📊
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Madogiwa0124&count_private=true&show_icons=true" />
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=madogiwa0124&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madogiwa0124&theme=default)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madogiwa0124&hide=html,swift" />
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madogiwa0124&theme=default)
