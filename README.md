@@ -50,7 +50,6 @@ GitHub / CircleCI / Docker
 * [@rails_study_bot](https://twitter.com/rails_study_bot) : This bot tweets rails methods and GitHub URLs.
 * [@ruby_study_bot](https://twitter.com/ruby_study_bot) : This bot tweets Ruby methods and the corresponding pages of the reference manual.
 * [multi-tab-markdown](https://madogiwa0124.github.io/multi-tab-markdown/) : markdown editor with multi tabbed functionality.
-* [Dogfeeds](https://dogfeeds.herokuapp.com/) : This is a service that can compile Rss.
 
 ## Others🤖
 
