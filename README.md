@@ -23,14 +23,14 @@ My blog :jp: : https://madogiwa0124.hatenablog.com/
 
 ### Backend
 * Ruby / Ruby on Rails / Sidekiq
-* MySQL / Redis
+* MySQL / PostgreSQL / Redis
 
 ### Frontend
 * JavaScript / Vue.js / TypeScript / HTML / CSS / Sass(Scss)
 * webpack
 
 ### Others
-GitHub / CircleCI / Docker
+* GitHub / CxircleCI / Docker
 
 # My apps 🗂
 
