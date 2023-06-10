@@ -50,6 +50,7 @@ My blog :jp: : https://madogiwa0124.hatenablog.com/
 * [@rails_study_bot](https://twitter.com/rails_study_bot) : This bot tweets rails methods and GitHub URLs.
 * [@ruby_study_bot](https://twitter.com/ruby_study_bot) : This bot tweets Ruby methods and the corresponding pages of the reference manual.
 * [multi-tab-markdown](https://madogiwa0124.github.io/multi-tab-markdown/) : markdown editor with multi tabbed functionality.
+* [rails-new-command-generator](https://github.com/madogiwa0124/rails-new-command-generator) : This is a tool to help you generate a rails new command with the options you want.
 
 ## Others🤖
 
