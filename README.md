@@ -30,7 +30,7 @@ My blog :jp: : https://madogiwa0124.hatenablog.com/
 * webpack
 
 ### Others
-* GitHub / CxircleCI / Docker
+* GitHub / CircleCI / Docker
 
 # My apps 🗂
 
