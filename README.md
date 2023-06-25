@@ -44,6 +44,7 @@ My blog :jp: : https://madogiwa0124.hatenablog.com/
 * [markdown_to_rspec](https://github.com/madogiwa0124/markdown_to_rspec) : converts text in markdown format into text in RSpec format.
 * [okcomputer_html_view](https://github.com/madogiwa0124/okcomputer_html_view) : better html view for okcomputer.
 * [aikotoba](https://github.com/madogiwa0124/aikotoba) : Rails engine that makes it easy to implement simple email and password authentication.
+* [kombu](https://github.com/madogiwa0124/kombu) : provide frontend component renderable for Ruby on Rails a.k.a. Kombu.
 
 ## Services🍩
 
