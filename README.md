@@ -60,6 +60,7 @@ My blog :jp: : https://madogiwa0124.hatenablog.com/
 * [rails-heroku-terraform](https://github.com/madogiwa0124/rails-heroku-terraform) : terraform template for running Rails on Heroku.
 * [pull-request-lead-time-measure-action](https://github.com/madogiwa0124/pull-request-lead-time-measure-action) : GitHub action to measure the time to close the last 100 pull requests.
 * [vite_study](https://github.com/madogiwa0124/vite_study) : repository for vite study.
+* [postcss-plugin-add-encapsulation-selector](https://github.com/madogiwa0124/postcss-plugin-add-encapsulation-selector) : PostCSS plugin to add encapsulation selector.
 
 # Stats📊
 
