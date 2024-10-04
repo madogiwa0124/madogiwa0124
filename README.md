@@ -51,16 +51,18 @@ My blog :jp: : https://madogiwa0124.hatenablog.com/
 * [multi-tab-markdown](https://madogiwa0124.github.io/multi-tab-markdown/) : markdown editor with multi tabbed functionality.
 * [rails-new-command-generator](https://github.com/madogiwa0124/rails-new-command-generator) : This is a tool to help you generate a rails new command with the options you want.
 
+## npm packages 📦
+
+* [vite-plugin-rollbar-sourcemap](https://github.com/madogiwa0124/vite-plugin-rollbar-sourcemap): This is a Vite plugin for uploading Vite-generated Sourcemaps to Rolbar.
+* [postcss-plugin-add-encapsulation-selector](https://github.com/madogiwa0124/postcss-plugin-add-encapsulation-selector) : PostCSS plugin to add encapsulation selector.
+
 ## Others🤖
 
 * [my_rails_template](https://github.com/madogiwa0124/my_rails_template) : My application template for Ruby on Rails.
 * [CameRuby](https://github.com/madogiwa0124/CameRuby) : camelCase🐫 + Ruby💎 = 🐫CameRuby💎.
-* [webpack_study](https://github.com/madogiwa0124/webpack_study) : repository for webpack study.
 * [JavaScriptGameExam](https://github.com/madogiwa0124/JavaScriptGameExam) : games made using JavaScript/TypeScript.
 * [rails-heroku-terraform](https://github.com/madogiwa0124/rails-heroku-terraform) : terraform template for running Rails on Heroku.
 * [pull-request-lead-time-measure-action](https://github.com/madogiwa0124/pull-request-lead-time-measure-action) : GitHub action to measure the time to close the last 100 pull requests.
-* [vite_study](https://github.com/madogiwa0124/vite_study) : repository for vite study.
-* [postcss-plugin-add-encapsulation-selector](https://github.com/madogiwa0124/postcss-plugin-add-encapsulation-selector) : PostCSS plugin to add encapsulation selector.
 
 # Stats📊
 
