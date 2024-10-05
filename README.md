@@ -22,12 +22,17 @@ My blog :jp: : https://madogiwa0124.hatenablog.com/
 ## I used at work 👩‍💻
 
 ### Backend
+
 * Ruby / Ruby on Rails / Sidekiq
-* MySQL / PostgreSQL / Redis
 
 ### Frontend
+
 * JavaScript / Vue.js / TypeScript / HTML / CSS / Sass(Scss)
 * webpack / Vite / PostCSS
+
+### Middleware
+
+* MySQL / PostgreSQL / Redis
 
 ### Others
 * GitHub / CircleCI / Docker
