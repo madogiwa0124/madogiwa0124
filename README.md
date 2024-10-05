@@ -27,7 +27,7 @@ My blog :jp: : https://madogiwa0124.hatenablog.com/
 
 ### Frontend
 * JavaScript / Vue.js / TypeScript / HTML / CSS / Sass(Scss)
-* webpack
+* webpack / Vite / PostCSS
 
 ### Others
 * GitHub / CircleCI / Docker
