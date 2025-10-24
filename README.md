@@ -60,6 +60,7 @@ My blog :jp: : https://madogiwa0124.hatenablog.com/
 
 * [vite-plugin-rollbar-sourcemap](https://github.com/madogiwa0124/vite-plugin-rollbar-sourcemap): This is a Vite plugin for uploading Vite-generated Sourcemaps to Rolbar.
 * [postcss-plugin-add-encapsulation-selector](https://github.com/madogiwa0124/postcss-plugin-add-encapsulation-selector) : PostCSS plugin to add encapsulation selector.
+* [Madogiwa UI](https://github.com/madogiwa0124/madogiwa-ui): A original UI framework leveraging edge CSS features.
 
 ## Others🤖
 
