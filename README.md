@@ -69,6 +69,7 @@ My blog :jp: : https://madogiwa0124.hatenablog.com/
 * [JavaScriptGameExam](https://github.com/madogiwa0124/JavaScriptGameExam) : games made using JavaScript/TypeScript.
 * [rails-heroku-terraform](https://github.com/madogiwa0124/rails-heroku-terraform) : terraform template for running Rails on Heroku.
 * [pull-request-lead-time-measure-action](https://github.com/madogiwa0124/pull-request-lead-time-measure-action) : GitHub action to measure the time to close the last 100 pull requests.
+* [my-agents-collection](https://github.com/madogiwa0124/my-agents-collection) : A collection of prompts for AI agents that I have created.
 
 # Stats📊
 
