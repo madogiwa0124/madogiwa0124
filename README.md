@@ -50,6 +50,7 @@ My blog :jp: : https://madogiwa0124.hatenablog.com/
 * [okcomputer_html_view](https://github.com/madogiwa0124/okcomputer_html_view) : better html view for okcomputer.
 * [aikotoba](https://github.com/madogiwa0124/aikotoba) : Rails engine that makes it easy to implement simple email and password authentication.
 * [kombu](https://github.com/madogiwa0124/kombu) : provide frontend component renderable for Ruby on Rails a.k.a. Kombu.
+* [rixie](https://github.com/madogiwa0124/rixie) : Rixie is a standalone Ruby gem for orchestrating AI agents.
 
 ## Services🍩
 
